@@ -1,0 +1,139 @@
+html, div, span, applet, object, iframe, blockquote, a, abbr,
+acronym, address, big, cite, code, del, dfn, font, img, ins,
+kbd, q, s, samp, small, strike, sub, sup, tt, var, b, u, i, center,
+dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table,
+caption, tbody, tfoot, thead, tr, th, td {
+    background: transparent;
+    border: 0;
+    margin: 0;
+    outline: 0;
+    padding: 0;
+}
+*:focus { outline: none; }
+body {
+font-family: Tahoma , arial, serif; 
+   font-weight: normal;
+   font-size:12px;
+   line-height:20px;
+    margin: 0;
+    padding: 0;
+	}
+html>body { font-size:12px;line-height:20px;}
+h1, h2, h3, h4, h5, h6, ul, li, p, em, strong, pre, code {
+    font-size: 100%;
+    font-style: normal;
+    font-weight: 400;
+    line-height: inherit;
+    margin: 0;
+    padding: 0;
+}
+ul,ol {
+    list-style: none;
+}
+
+blockquote, q {
+    quotes: none;
+}
+
+blockquote:before, blockquote:after, q:before, q:after {
+    content: '';
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    font-size: inherit;
+}
+form {
+    display: block;
+}
+xmp {
+    padding: 15px;
+}
+cite, em, dfn {
+    font-style: italic;
+}
+
+strong, b {
+    font-weight: 700;
+}
+
+sup {
+    bottom: .3em;
+    position: relative;
+    vertical-align: super;
+}
+
+sub {
+    bottom: -.2em;
+    position: relative;
+    vertical-align: sub;
+}
+code, kbd, samp, pre, tt, var, textarea,input,select{
+    font-family:'Droid Sans', arial, serif;
+    font-size: 100%;
+	overflow:   hidden;
+}
+
+del {
+    text-decoration: line-through;
+}
+
+ins, dfn {
+    border-bottom: 1px solid #ccc;
+}
+
+small, sup, sub {
+    font-size: 85%;
+}
+
+abbr, acronym {
+    border-bottom-style: dotted;
+    border-bottom-width: 1px;
+    text-transform: uppercase;
+}
+
+a, a:link, a:visited, a:hover, a:active {
+    text-decoration: none; 
+}
+
+label, button {
+    cursor: pointer;
+}
+
+.left {
+    float: left
+}
+
+.right {
+    float: right;
+}
+
+.center {
+    text-align: center;
+}
+
+.clear {
+    clear: both;
+}
+
+.hidden {
+    display: none!important;
+    visibility: hidden;
+}
+
+
+a abbr, a acronym, fieldset {
+    border: medium none;
+}
+
+a img, img {
+    border: 0;
+    text-decoration: none;
+}
+.alignright{ float:right;}
+.alignleft{ float:left;}
+img,iframe,object,embed{ margin-bottom:-5px; max-width:100%;}
+:root img,:root iframe,:root object,:root embed{margin-bottom:-6px \0/IE9; }  /* IE9 + IE10pp4 */
+iframe,object,embed { width: 100%\0/IE8+9; /* IE8 + 9 + IE10pp4  */}
+input,select,textarea{ -webkit-appearance: none;-moz-border-radius: 0px; -webkit-border-radius:0px; border-radius:0px;}

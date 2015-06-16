@@ -1,0 +1,16 @@
+/* dodgerblue color scheme*/
+#filterable li.current a,.comment-meta span.reply a,.entry a,.wp-pagenavi span.current,a.readmore,.clum2_box_meta a:hover,.clum2_unit .clum2_unit_meta a:hover,.wp-pagenavi a:hover,li.widget_homelist li a:hover,.clum2_sidebar_unit a:hover,.widget_archive li a:hover,.clum2_sidebar_unit li.menu-item a:hover,.commnetsnavi a:hover,.breadcrumbs a:hover,li.list_box h2 a:hover,#comments_box .author a:hover,.nav ul li a.menu_active{color:#108dc8;}
+.backbg,#respond .respondbtn:hover,#respond .send_btn:hover,#footunderwrap input.idi_send:hover{ background-color:#108dc8;}
+#respond input:focus,#respond textarea:focus,#footunderwrap input:focus,#footunderwrap textarea:focus,.search_header_over{ border:1px solid #108dc8;}
+::selection {background:#108dc8;color:#fff;}
+::-moz-selection{ background:#108dc8;color:#fff;}
+::-webkit-selection {background:#108dc8;color:#fff;}
+.navhovercolor{ color:#108dc8;}
+li.list_box h2 a:hover{color:#108dc8; }
+a.readmore,.nav_tri_active{color:#108dc8;background-image:url(../img/menustri_dodgerblue.png);}
+.backbg{background-color:#108dc8;}
+.textinfo a:hover{color:#108dc8}
+#footunderwrap input.idi_send:hover{background-color:#108dc8}
+#comments_box .author a:hover{ color:#108dc8;}
+.job_title:hover{ color:#108dc8;}
+.widget_archive li a:hover,.clum2_sidebar_unit li.menu-item a:hover,.clum2_sidebar_unit li.cat-item a:hover,li.widget_pages li a:hover,li.widget_links li a:hover,li.widget_meta li a:hover,li.widget_rss li a:hover{ background-image:url(../img/widgetlist_dodgerblue.png);}

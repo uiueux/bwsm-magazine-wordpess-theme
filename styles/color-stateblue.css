@@ -1,0 +1,16 @@
+/* stateblue color scheme*/
+#filterable li.current a,.comment-meta span.reply a,.entry a,.wp-pagenavi span.current,a.readmore,.clum2_box_meta a:hover,.clum2_unit .clum2_unit_meta a:hover,.wp-pagenavi a:hover,li.widget_homelist li a:hover,.clum2_sidebar_unit a:hover,.widget_archive li a:hover,.clum2_sidebar_unit li.menu-item a:hover,.commnetsnavi a:hover,.breadcrumbs a:hover,li.list_box h2 a:hover,#comments_box .author a:hover,.nav ul li a.menu_active{color:#7132ff;}
+.backbg,#respond .respondbtn:hover,#respond .send_btn:hover,#footunderwrap input.idi_send:hover{ background-color:#7132ff;}
+#respond input:focus,#respond textarea:focus,#footunderwrap input:focus,#footunderwrap textarea:focus,.search_header_over{ border:1px solid #7132ff;}
+::selection {background:#7132ff;color:#fff;}
+::-moz-selection{ background:#7132ff;color:#fff;}
+::-webkit-selection {background:#7132ff;color:#fff;}
+.navhovercolor{ color:#7132ff;}
+li.list_box h2 a:hover{color:#7132ff; }
+a.readmore,.nav_tri_active{color:#7132ff;background-image:url(../img/menustri_stateblue.png);}
+.backbg{background-color:#7132ff;}
+.textinfo a:hover{color:#7132ff}
+#footunderwrap input.idi_send:hover{background-color:#7132ff}
+#comments_box .author a:hover{ color:#7132ff;}
+.job_title:hover{ color:#7132ff;}
+.widget_archive li a:hover,.clum2_sidebar_unit li.menu-item a:hover,.clum2_sidebar_unit li.cat-item a:hover,li.widget_pages li a:hover,li.widget_links li a:hover,li.widget_meta li a:hover,li.widget_rss li a:hover{ background-image:url(../img/widgetlist_stateblue.png);}

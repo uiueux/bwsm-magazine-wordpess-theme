@@ -1,0 +1,16 @@
+/* deeppink color scheme*/
+#filterable li.current a,.comment-meta span.reply a,.entry a,.wp-pagenavi span.current,a.readmore,.clum2_box_meta a:hover,.clum2_unit .clum2_unit_meta a:hover,.wp-pagenavi a:hover,li.widget_homelist li a:hover,.clum2_sidebar_unit a:hover,.widget_archive li a:hover,.clum2_sidebar_unit li.menu-item a:hover,.commnetsnavi a:hover,.breadcrumbs a:hover,li.list_box h2 a:hover,#comments_box .author a:hover,.nav ul li a.menu_active{color:#f025ab;}
+.backbg,#respond .respondbtn:hover,#respond .send_btn:hover,#footunderwrap input.idi_send:hover{background-color:#f025ab;}
+#respond input:focus,#respond textarea:focus,#footunderwrap input:focus,#footunderwrap textarea:focus,.search_header_over{ border:1px solid #f025ab;}
+::selection {background:#f025ab;color:#fff;}
+::-moz-selection{background:#f025ab;color:#fff;}
+::-webkit-selection {background:#f025ab;color:#fff;}
+.navhovercolor{color:#f025ab;}
+li.list_box h2 a:hover{color:#f025ab;}
+a.readmore,.nav_tri_active{color:#f025ab;background-image:url(../img/menustri_deeppink.png);}
+.backbg{background-color:#f025ab;}
+.textinfo a:hover{color:#f025ab}
+#footunderwrap input.idi_send:hover{background-color:#f025ab}
+#comments_box .author a:hover{color:#f025ab;}
+.job_title:hover{color:#f025ab;}
+.widget_archive li a:hover,.clum2_sidebar_unit li.menu-item a:hover,.clum2_sidebar_unit li.cat-item a:hover,li.widget_pages li a:hover,li.widget_links li a:hover,li.widget_meta li a:hover,li.widget_rss li a:hover{ background-image:url(../img/widgetlist_deeppink.png);}

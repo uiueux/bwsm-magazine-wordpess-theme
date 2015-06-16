@@ -1,0 +1,669 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Webzine wp theme v1.6.6\n"
+"POT-Creation-Date: 2013-12-08 16:33+0800\n"
+"PO-Revision-Date: 2013-12-08 16:33+0800\n"
+"Last-Translator: fanpeng <fanpengbj@gmail.com>\n"
+"Language-Team: bwsm <uiueux@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.1\n"
+"X-Poedit-Basepath: D:\\xampp\\xampp\\htdocs\\wordpress29\\wp-content\\themes"
+"\\webzine\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:12
+msgid ""
+"The page you were looking for is no longer online or has been moved, you can "
+"go back"
+msgstr ""
+
+#: comments.php:13
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:23
+msgid "0 COMMENT"
+msgstr ""
+
+#: comments.php:23
+msgid "1 COMMENT"
+msgstr ""
+
+#: comments.php:23
+msgid "% COMMENTS"
+msgstr ""
+
+#: comments.php:50 functions/options.php:208
+msgid "LEAVE A REPLY"
+msgstr ""
+
+#: comments.php:50
+#, php-format
+msgid "LEAVE A REPLY to %s"
+msgstr ""
+
+#: comments.php:63 comments.php:108 footer.php:76 footer.php:147
+#: footer.php:230 footer.php:305 functions/widget-recent-tweets.php:254
+msgid "Name"
+msgstr ""
+
+#: comments.php:63 comments.php:111 footer.php:43 footer.php:76 footer.php:148
+#: footer.php:198 footer.php:230 footer.php:306 header.php:76
+msgid "Email"
+msgstr ""
+
+#: comments.php:63 comments.php:64 comments.php:108 comments.php:111
+#: comments.php:121 footer.php:76 footer.php:77 footer.php:147 footer.php:148
+#: footer.php:150 footer.php:230 footer.php:231 footer.php:305 footer.php:306
+#: footer.php:308
+msgid "Required"
+msgstr ""
+
+#: comments.php:63 comments.php:69 comments.php:111 footer.php:76
+#: footer.php:82 footer.php:148 footer.php:230 footer.php:237 footer.php:306
+msgid "Invalid email"
+msgstr ""
+
+#: comments.php:78 footer.php:102 footer.php:260
+msgid "Sending"
+msgstr ""
+
+#: comments.php:83
+msgid "Thanks, your comment was successfully sent"
+msgstr ""
+
+#: comments.php:98
+msgid "You must be logged in to post a comment"
+msgstr ""
+
+#: comments.php:105
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:105
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:105
+msgid "Log out"
+msgstr ""
+
+#: comments.php:114 footer.php:149 footer.php:307
+msgid "Website"
+msgstr ""
+
+#: comments.php:122 functions/options.php:214
+msgid "Submit"
+msgstr ""
+
+#: footer.php:90 footer.php:246
+msgid "Please Enter Correct Verification Number"
+msgstr ""
+
+#: footer.php:107 footer.php:265
+msgid "Thanks, your email was successfully sent"
+msgstr ""
+
+#: footer.php:127 footer.php:285
+msgid "Leave a Message"
+msgstr ""
+
+#: footer.php:132 footer.php:290 functions/options.php:270
+msgid "Send"
+msgstr ""
+
+#: fullwidth.php:98 fullwidth.php:102 fullwidth.php:440 fullwidth.php:472
+#: fullwidth.php:528 fullwidth.php:539 fullwidth.php:591 fullwidth.php:599
+#: fullwidth_filterable.php:112 fullwidth_filterable.php:116
+#: fullwidth_filterable.php:443 fullwidth_filterable.php:475
+#: fullwidth_filterable.php:529 fullwidth_filterable.php:540
+#: fullwidth_filterable.php:592 fullwidth_filterable.php:600 list.php:102
+#: list.php:106 list.php:441 list.php:477 list.php:543 list.php:550
+#: list.php:610 list.php:618 list_filterable.php:113 list_filterable.php:117
+#: list_filterable.php:447 list_filterable.php:483 list_filterable.php:549
+#: list_filterable.php:556 list_filterable.php:616 list_filterable.php:624
+#: functions/options.php:184
+msgid "Read more"
+msgstr ""
+
+#: fullwidth.php:631 index.php:41 list.php:648 search.php:37
+msgid "Sorry, No posts."
+msgstr ""
+
+#: functions.php:121
+msgid "REPLY"
+msgstr ""
+
+#: functions.php:127
+msgid "Your comment is awaiting moderation"
+msgstr ""
+
+#: functions.php:620
+msgid "Home"
+msgstr ""
+
+#: functions.php:631
+msgid "Archives"
+msgstr ""
+
+#: functions.php:637
+msgid "Search Results"
+msgstr ""
+
+#: functions.php:643
+msgid "404 Not Found"
+msgstr ""
+
+#: functions.php:696 functions.php:700
+msgid "Block Color"
+msgstr ""
+
+#: functions.php:705 functions.php:709
+msgid "Slide Link"
+msgstr ""
+
+#: functions.php:718 functions.php:722
+msgid "Error! Something went wrong."
+msgstr ""
+
+#: page.php:60 page.php:131
+msgid "Sorry, No content in this page"
+msgstr ""
+
+#: search.php:17
+msgid "Search results for"
+msgstr ""
+
+#: searchform.php:2
+msgid "Click here to search"
+msgstr ""
+
+#: single-gallery.php:58 single.php:60 single.php:122
+msgid "Posted by"
+msgstr ""
+
+#: single-gallery.php:58 single.php:60 single.php:122
+msgid "in"
+msgstr ""
+
+#: single.php:47 single.php:120
+msgid "<p class=\"singlepageno\"><strong>Pages:</strong> "
+msgstr ""
+
+#: single.php:68 single.php:130
+msgid "Sorry, no comments."
+msgstr ""
+
+#: functions/custom_fields.php:488 functions/custom_fields.php:505
+#: functions/custom_fields.php:519 functions/custom_fields.php:534
+#: functions/custom_fields.php:550 functions/custom_fields.php:572
+#: functions/custom_fields.php:585 functions/custom_fields.php:603
+#: functions/custom_fields.php:615 functions/custom_fields.php:664
+#: functions/custom_fields.php:676 functions/custom_fields.php:692
+#: functions/custom_fields.php:704 functions/custom_fields.php:717
+msgid "Please select"
+msgstr ""
+
+#: functions/custom_fields.php:551
+msgid "Default"
+msgstr ""
+
+#: functions/custom_fields.php:552 functions/custom_fields.php:553
+#: functions/custom_fields.php:554 functions/custom_fields.php:555
+#: functions/custom_fields.php:556 functions/custom_fields.php:557
+#: functions/custom_fields.php:558 functions/custom_fields.php:559
+#: functions/custom_fields.php:560 functions/custom_fields.php:561
+#: functions/custom_fields.php:562
+msgid "sidebar"
+msgstr ""
+
+#: functions/custom_fields.php:573
+msgid "No Slide"
+msgstr ""
+
+#: functions/custom_fields.php:574
+msgid "Brick Slide"
+msgstr ""
+
+#: functions/custom_fields.php:575
+msgid "Nivo Slider"
+msgstr ""
+
+#: functions/custom_fields.php:586
+msgid "fade"
+msgstr ""
+
+#: functions/custom_fields.php:587
+msgid "fold"
+msgstr ""
+
+#: functions/custom_fields.php:588
+msgid "sliceUpDownLeft"
+msgstr ""
+
+#: functions/custom_fields.php:589
+msgid "sliceUpDown"
+msgstr ""
+
+#: functions/custom_fields.php:590
+msgid "sliceUpLeft"
+msgstr ""
+
+#: functions/custom_fields.php:591
+msgid "sliceUpRight"
+msgstr ""
+
+#: functions/custom_fields.php:592
+msgid "sliceDownLeft"
+msgstr ""
+
+#: functions/custom_fields.php:593
+msgid "sliceDownRight"
+msgstr ""
+
+#: functions/custom_fields.php:604
+msgid "2 Columns with sidebar"
+msgstr ""
+
+#: functions/custom_fields.php:605
+msgid "Fullwidth"
+msgstr ""
+
+#: functions/custom_fields.php:645 functions/custom_fields.php:654
+msgid "Ascending"
+msgstr ""
+
+#: functions/custom_fields.php:646 functions/custom_fields.php:655
+msgid "Descending"
+msgstr ""
+
+#: functions/custom_fields.php:665 functions/custom_fields.php:677
+#: functions/widget-recent-comments.php:97
+#: functions/widget-recent-tweets.php:245
+msgid "Title"
+msgstr ""
+
+#: functions/custom_fields.php:666
+msgid "Date/Time"
+msgstr ""
+
+#: functions/custom_fields.php:667 functions/custom_fields.php:679
+msgid "Random"
+msgstr ""
+
+#: functions/custom_fields.php:678
+msgid "Date"
+msgstr ""
+
+#: functions/custom_fields.php:680
+msgid "ID"
+msgstr ""
+
+#: functions/custom_fields.php:681
+msgid "modified"
+msgstr ""
+
+#: functions/custom_fields.php:682
+msgid "author"
+msgstr ""
+
+#: functions/custom_fields.php:683
+msgid "comment_count"
+msgstr ""
+
+#: functions/custom_fields.php:684
+msgid "none"
+msgstr ""
+
+#: functions/custom_fields.php:693
+msgid "No"
+msgstr ""
+
+#: functions/custom_fields.php:694 functions/options.php:544
+msgid "Yes"
+msgstr ""
+
+#: functions/custom_fields.php:705
+msgid "Infinite Scroll"
+msgstr ""
+
+#: functions/custom_fields.php:706
+msgid "With page numbers"
+msgstr ""
+
+#: functions/custom_fields.php:707
+msgid "None"
+msgstr ""
+
+#: functions/options.php:15
+msgid "Header"
+msgstr ""
+
+#: functions/options.php:20
+msgid "Enable Plain Text Logo"
+msgstr ""
+
+#: functions/options.php:26
+msgid "Custom Logo"
+msgstr ""
+
+#: functions/options.php:32
+msgid "Enable search bar"
+msgstr ""
+
+#: functions/options.php:39 functions/options.php:280
+msgid "Optional, for Facebook icon"
+msgstr ""
+
+#: functions/options.php:87 functions/options.php:328
+msgid "For email icon"
+msgstr ""
+
+#: functions/options.php:100
+msgid "General"
+msgstr ""
+
+#: functions/options.php:105
+msgid "Custom Favicon"
+msgstr ""
+
+#: functions/options.php:106
+msgid ""
+"16px x 16px Ico/Png/Gif image that will represent your website's favicon."
+msgstr ""
+
+#: functions/options.php:111
+msgid "Custom Mobile Bookmark Icon"
+msgstr ""
+
+#: functions/options.php:117
+msgid "Skin"
+msgstr ""
+
+#: functions/options.php:124
+msgid "Color scheme"
+msgstr ""
+
+#: functions/options.php:130
+msgid "Background color"
+msgstr ""
+
+#: functions/options.php:131
+msgid "Enter color code"
+msgstr ""
+
+#: functions/options.php:136
+msgid "Background Pattern"
+msgstr ""
+
+#: functions/options.php:142
+msgid "Enable Custom Background Pattern"
+msgstr ""
+
+#: functions/options.php:148
+msgid " Custom Background Pattern Image url"
+msgstr ""
+
+#: functions/options.php:149
+msgid "Optional, Png/Jpg/Gif format"
+msgstr ""
+
+#: functions/options.php:154
+msgid "Background Pattern repeat or not"
+msgstr ""
+
+#: functions/options.php:155 functions/options.php:162
+msgid "Optional"
+msgstr ""
+
+#: functions/options.php:161
+msgid "Background Pattern fixed or not"
+msgstr ""
+
+#: functions/options.php:168
+msgid "Heading Font"
+msgstr ""
+
+#: functions/options.php:175
+msgid "Enable Lightbox"
+msgstr ""
+
+#: functions/options.php:181
+msgid "Readmore button"
+msgstr ""
+
+#: functions/options.php:188
+msgid ""
+"Please insert your full Google Analytics code here. If you leave this field "
+"empty, Google Analytics will be disabled."
+msgstr ""
+
+#: functions/options.php:193
+msgid "Article number of each archive page"
+msgstr ""
+
+#: functions/options.php:194 functions/options.php:200
+msgid "default 15"
+msgstr ""
+
+#: functions/options.php:199
+msgid "Article number of each search result page"
+msgstr ""
+
+#: functions/options.php:205
+msgid "Comment Form Title"
+msgstr ""
+
+#: functions/options.php:211
+msgid "Comment Form button"
+msgstr ""
+
+#: functions/options.php:218
+msgid ""
+"You could customize the css code what you want. e.g. body{background-color:"
+"#000}"
+msgstr ""
+
+#: functions/options.php:225
+msgid "Footer"
+msgstr ""
+
+#: functions/options.php:230
+msgid "Copyright"
+msgstr ""
+
+#: functions/options.php:231
+msgid "e.g. Copyright 2012 Powered by WordPress. Webzine Theme by Bwsm"
+msgstr ""
+
+#: functions/options.php:236
+msgid "Contact infomation"
+msgstr ""
+
+#: functions/options.php:237
+msgid "Show the contact information and form in footer"
+msgstr ""
+
+#: functions/options.php:243
+msgid "Address Title"
+msgstr ""
+
+#: functions/options.php:244
+msgid "e.g. Our Address"
+msgstr ""
+
+#: functions/options.php:249
+msgid "Address Details"
+msgstr ""
+
+#: functions/options.php:256
+msgid ""
+"Please enter a email address which you want receive message from the contact "
+"form"
+msgstr ""
+
+#: functions/options.php:261
+msgid "Contact form Title"
+msgstr ""
+
+#: functions/options.php:262
+msgid "e.g. Leave a Message"
+msgstr ""
+
+#: functions/options.php:267
+msgid "Contact form Button"
+msgstr ""
+
+#: functions/options.php:273
+msgid "Enable Random Verify Number"
+msgstr ""
+
+#: functions/options.php:279
+msgid "Facebook URL"
+msgstr ""
+
+#: functions/options.php:327
+msgid "Email adderss"
+msgstr ""
+
+#: functions/options.php:341
+msgid "Advertising in post"
+msgstr ""
+
+#: functions/options.php:346
+msgid "Top of post"
+msgstr ""
+
+#: functions/options.php:347
+msgid "Please enter the AD code."
+msgstr ""
+
+#: functions/options.php:352
+msgid "After content"
+msgstr ""
+
+#: functions/options.php:358
+msgid "Bottom of post"
+msgstr ""
+
+#: functions/pagenavi.php:41
+msgid "PageNavi"
+msgstr ""
+
+#: functions/pagenavi.php:220
+msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+msgstr ""
+
+#: functions/pagenavi.php:223
+msgid "&laquo; First"
+msgstr ""
+
+#: functions/pagenavi.php:224
+msgid "Last &raquo;"
+msgstr ""
+
+#: functions/pagenavi.php:225
+msgid "next"
+msgstr ""
+
+#: functions/pagenavi.php:226
+msgid "pre"
+msgstr ""
+
+#: functions/pagenavi.php:227 functions/pagenavi.php:228
+msgid "..."
+msgstr ""
+
+#: functions/widget-ads-unit.php:17
+msgid "Manage your ads here"
+msgstr ""
+
+#: functions/widget-ads-unit.php:19
+msgid "Advertising Manager"
+msgstr ""
+
+#: functions/widget-maps.php:12
+msgid "Show Google Maps"
+msgstr ""
+
+#: functions/widget-maps.php:14
+msgid "Google Maps"
+msgstr ""
+
+#: functions/widget-maps.php:68
+msgid "Contact Us"
+msgstr ""
+
+#: functions/widget-maps.php:76
+msgid "Lat/Lng:"
+msgstr ""
+
+#: functions/widget-maps.php:78
+msgid "Get your location Lat/Lng in this page"
+msgstr ""
+
+#: functions/widget-maps.php:81
+msgid "Zoom"
+msgstr ""
+
+#: functions/widget-maps.php:81
+msgid "For example"
+msgstr ""
+
+#: functions/widget-maps.php:84
+msgid "Contact info"
+msgstr ""
+
+#: functions/widget-recent-comments.php:100
+msgid "How many comments to show"
+msgstr ""
+
+#: functions/widget-recent-comments.php:102
+msgid "At most 15"
+msgstr ""
+
+#: functions/widget-recent-tweets.php:15
+msgid "To show your latest tweets"
+msgstr ""
+
+#: functions/widget-recent-tweets.php:117
+msgid "minutes ago"
+msgstr ""
+
+#: functions/widget-recent-tweets.php:121
+msgid "hours ago"
+msgstr ""
+
+#: functions/widget-recent-tweets.php:125
+msgid "days ago"
+msgstr ""
+
+#: functions/widget-recent-tweets.php:127
+msgid "about"
+msgstr ""
+
+#: functions/widget-recent-tweets.php:217
+msgid "loading tweets"
+msgstr ""
+
+#: functions/widget-recent-tweets.php:258
+msgid "Your Twitter name"
+msgstr ""
+
+#: functions/widget-recent-tweets.php:264
+msgid "Numbers"
+msgstr ""
+
+#: functions/widget-recent-tweets.php:275
+msgid "How many tweets to show?"
+msgstr ""
+
+#: functions/widget-search.php:36
+msgid "Search"
+msgstr ""

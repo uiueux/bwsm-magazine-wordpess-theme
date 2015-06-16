@@ -1,0 +1,54 @@
+/* CSS Document for IE7 */
+img,iframe,object,embed{margin-bottom:0;}
+.colorpanel_main{ *height:510px;}
+/* header*/
+h1#logo a{ line-height:40px}
+.nav_tri{display: inline;}
+/*footer*/
+.footinfo{ margin-top:0;}
+#footunder{ height:224px;}
+/*Home*/
+.slide10u .tabs li{-background:none;-filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src="../img/slide_10u_mark.png"); }
+.slide10u .slide-back {-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)"; }
+.slidemore{ margin-top:-20px;}
+li.widget_homelist li{*display: inline;}
+li.home-general img{ *margin-bottom:-1px;}
+.nivo-controlNav a img{ border-color:#666;}
+/*list*/
+#clum2_sidebar_left{margin-left:-15px;}
+li.listbox_ufullimg{ background:none; background-color:none;}
+li.listbox_u3imgs ul{width:315px;}
+li.listbox_ublog1img .date{ width:80px}
+li.listbox_u5imgs .expert{ padding-top:10px;}
+#list_wrap_col2_c1 li.listbox_u3imgs ul{width:630px;}
+/*shortcode gallery*/
+.clum2_box .entry .gallery{ width:585px;}
+.clum2_box .entry .gallery .gallery-item{ margin-left:10px;}
+/* Sidebar*/
+.clum2_sidebar_unit{ width:325px}
+.clum2_sidebar_unit li.widget-container{ zoom:1; }
+.textboxsearch{ *margin-top:5px;}
+.search-form{ margin-left:-5px;}
+.textboxsearch{ padding-left:5px;}
+.submitsearch{*display:block;margin-top:2px\9;}
+.submitsearchy {*margin-bottom:5px;}
+.clum2_sidebar_unit h3 a.rsswidget img{ padding-bottom:0;}
+.clum2_sidebar_unit ul.tweet_list li{padding-left:0; background:none;}
+
+/*comments and respond in post*/
+#clum2_main .clum2_unit .clum2_commnum {*margin-top:0; padding-bottom:10px;}
+#respond #author,#respond #email,#respond #url{ *line-height:27px;}
+#respond .send_btn{ *width:105px;}
+#respond p{ *margin:0; padding:0;}
+
+/*BLOG*/
+#clum2_main .clum2_unit h3 .date{ *line-height:24px;}
+#clum2_main .clum2_unit h3 .date p{*padding-left:0}
+.respondbtn{ *width:90px; *margin-top:20px;}
+
+* html #top {position:absolute;
+top:expression(eval(document.documentElement.scrollTop+document.documentElement.clientHeight-this.offsetHeight-(parseInt(this.currentStyle.marginTop, 10)||0)-(parseInt(this.currentStyle.marginBottom, 10)||0)));
+right:0
+}
+
+.u404tit{ *line-height:100px;}

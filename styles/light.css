@@ -1,0 +1,106 @@
+/* Skin CSS - light */
+
+/*-------------------------------------------
+ 	General
+-------------------------------------------*/
+
+body{
+
+/*  background color value  */
+background-color:#fff;
+
+/*  background pattern include: pattern_dot_a.png \ pattern_dot_b.png \ pattern_dot_c.png \ pattern_dot_d.png \ pattern_dot_e.png \ pattern_dot_f.png \ pattern_bg_a.jpg \ pattern_bg_b.jpg  */
+background-image:none;
+
+/*  background pattern loop include: repeat\no-repeat\repeat-x\repeat-y  */
+background-repeat:repeat;
+
+/*  background pattern position fixed or scroll: fixed\scroll */
+background-attachment: fixed;
+}
+
+.line_main{height:3px; font-size:1px;background:url(../img/bg_main_02_b.png) repeat-x;}
+
+
+/*-------------------------------------------
+ 	Header
+-------------------------------------------*/
+.headerbar{ background:#f0f0f0;}
+.socialicons img{-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=30)"; 
+filter:alpha(opacity=30); 
+opacity: .3;}
+.socialicons img:hover{
+-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)"; 
+filter:alpha(opacity=70); 
+opacity: .7;
+}
+#search_header{ background-color:#e7e7e7; 
+-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)"; 
+filter:alpha(opacity=90); 
+opacity: .9;
+}
+.search-form_header{border-color:#e0e0e0;}
+.navhover,.nav ul ul,.nav ul ul{background: url(../img/bg_menu_b.png);}
+.nav ul li a{ color:#999;text-shadow:1px 1px 1px #f8f8f8;}
+.nav ul li span{ color:#b9b9b9;}
+.mobileMenu{ color:#666; border:1px solid #f8f8f8; background: url(../img/menu_mobile.png) no-repeat scroll 77px 15px #f8f8f8; }
+
+/*-------------------------------------------
+ 	Slide / Slogan / Guide
+-------------------------------------------*/
+.slidew{ background:none}
+.slogn_full,.slogn_half{ background-color:#f8f8f8; border:1px solid #f4f4f4;}
+.quote_full{background:#f8f8f8 url(../img/blockquote_b.png) no-repeat 121px 36px;}
+.quote_half{background:#f8f8f8 url(../img/blockquote_half_b.png) no-repeat;}
+.guidewrap{background: #f8f8f8; color:#666; }
+/*
+-------------------------------------------
+ 	Main List
+-------------------------------------------*/
+li.list_box{ background-color: #f8f8f8; color:#999;}
+li.list_box h2 a{color:#666;}
+
+/*
+-------------------------------------------
+ 	Footer
+-------------------------------------------*/
+#top{background:url(../img/top_b.png) no-repeat 50% 50%;}
+#top:hover{ background:url(../img/top_b-a.png) no-repeat 0 0;}
+#footer{background:#f0f0f0;}
+#footbox,.textinfo,.textinfo,.verifyNum{color:#999}
+.footer_open{background:url(../img/footunder_btnopen_b.png);}
+.footer_close{background:url(../img/footunder_btnclose_b.png);}
+#footunder{background:#f0f0f0;}
+.textinfo a{color:#999;}
+#footunderwrap input,#footunderwrap textarea{border:1px solid #e2e2e2;background-color:#e7e7e7;color:#777;}
+#footunderwrap input.idi_send{background-color:#e2e2e2;color:#666;}
+#footunderwrap input.idi_send:hover{color:#fff;}
+/*	
+-------------------------------------------
+	Page / Single - Sidebar / fullwidth
+-------------------------------------------
+*/
+.clum2_box,.tweet_time a,.tagcloud a,.opps,.job_title,.clum2_box_meta,.clum2_box_meta a,.comment{color:#999;}
+h1.pagetitle,.clum2_sidebar_unit h3,.opps a,#comments_box .author a{ color:#666;}
+.clum2_sidebar_unit li.widget-container,.singal_main{background-color:#f8f8f8;}
+.clum2_sidebar_unit,.clum2_sidebar_unit a{color:#b0b0b0;}
+.clum2_sidebar_unit ul.tweet_list li,.twitter-tweet{ background: url(../img/ico-tweet_b.png) no-repeat 0px 4px;}
+.widget_archive li a,.clum2_sidebar_unit li.menu-item a,.clum2_sidebar_unit li.cat-item a,li.widget_pages li a,li.widget_links li a,li.widget_meta li a,li.widget_rss li a{background-image:url(../img/widgetlist_grey.png); background-repeat:no-repeat; background-position: 0 63%; padding-left:20px;}
+.widget_close{ background:url(../img/ico-widget-close_b.png) no-repeat 50% 50%;}
+.widget_open{ background:url(../img/ico-widget-open_b.png) no-repeat 50% 50%;}
+.job_title{background: url(../img/ico_career_b.gif) no-repeat left;}
+blockquote {background:url(../img/quote_b.png) 0 0 no-repeat; }
+#respond .respondbtn,#respond .send_btn{color:#fff;background-color:#a9a9a9;}
+
+/*Prettyphoto*/
+.pp_nav p,.pp_description{ color:#666;}
+
+
+
+
+
+
+
+
+
+

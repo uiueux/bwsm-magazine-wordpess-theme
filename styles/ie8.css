@@ -1,0 +1,10 @@
+/* CSS Document for IE8 */
+/*slide*/
+.nivo-controlNav a img{ border-color:#666;}
+/*list*/
+li.listbox_u3imgs ul{width:315px;}
+li.listbox_ublog1img .date{ width:80px}
+li.listbox_u5imgs .expert{ padding-top:10px;}
+#list_wrap_col2_c1 li.listbox_u3imgs ul{width:630px;}
+/*menu*/
+.nav_tri{ display:inline;}

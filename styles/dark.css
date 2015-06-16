@@ -1,0 +1,96 @@
+/* Skin CSS - dark */
+
+/*-------------------------------------------
+ 	General
+-------------------------------------------*/
+
+body{
+
+/*  background color value  */
+background-color:#333;
+
+/*  background pattern include: pattern_dot_a.png \ pattern_dot_b.png \ pattern_dot_c.png \ pattern_dot_d.png \ pattern_dot_e.png \ pattern_dot_f.png \ pattern_bg_a.jpg \ pattern_bg_b.jpg  */
+background-image: url(../img/pattern_dot_b.png);
+
+/*  background pattern loop include: repeat\no-repeat\repeat-x\repeat-y  */
+background-repeat:repeat;
+
+/*  background pattern position fixed or scroll: fixed\scroll */
+background-attachment: fixed;
+}
+
+.line_main{height:3px; font-size:1px;background:url(../img/bg_main_02.png) repeat-x;}
+
+/*-------------------------------------------
+ 	Header
+-------------------------------------------*/
+.headerbar{ background:url(../img/bg_trans_d.png);}
+.socialicons img{-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)"; 
+filter:alpha(opacity=50); 
+opacity: .5;}
+.socialicons img:hover{
+-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)"; 
+filter:alpha(opacity=100); 
+opacity: 1;
+}
+#search_header{ background-color:#292929; 
+-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)"; 
+filter:alpha(opacity=80); 
+opacity: .8;
+}
+.search-form_header{border:1px solid #414141;}
+.navhover,.nav ul ul,.nav ul ul{background: url(../img/bg_menu.png);}
+.nav ul li span{ color:#787878;}
+.nav ul li a{color:#afafaf;text-shadow:1px 1px 1px #222;}
+.mobileMenu{ color:#999; border:1px solid #414141; background: url(../img/menu_mobile.png) no-repeat scroll 77px 15px #333; }
+
+/*-------------------------------------------
+ 	Slide / Slogan / Guide
+-------------------------------------------*/
+.slidew{background: url(../img/slide-bg.png) no-repeat 50% 0;}
+.slogn_full,.slogn_half{ background-color:#efefef;}
+.quote_full{background:#efefef url(../img/blockquote.png) no-repeat 121px 36px;}
+.quote_half{background:#efefef url(../img/blockquote_half.png) no-repeat;}
+.guidewrap{background: #efefef; color:#666;}
+/*
+-------------------------------------------
+ 	Main List
+-------------------------------------------*/
+li.list_box{background-color: #efefef; color:#717171}
+li.list_box h2 a{color:#333;}
+
+/*
+-------------------------------------------
+ 	Footer
+-------------------------------------------*/
+#top{background:url(../img/top.png) no-repeat 50% 50%;}
+#top:hover{ background:url(../img/top-a.png) no-repeat 0 0;}
+#footer{background:url(../img/bg_trans_d.png);}
+#footbox{color:#434343}
+.footer_open{background:url(../img/footunder_btnopen.png);}
+.footer_close{background:url(../img/footunder_btnclose.png);}
+#footunder{background:url(../img/bg_trans_d2.png);}
+.textinfo a,.textinfo,.textinfo,.verifyNum{color:#454545;}
+#footunderwrap input,#footunderwrap textarea{border:1px solid #303030;background:#2c2c2c;color:#666;}
+#footunderwrap input.idi_send{background-color:#2c2c2c;color:#666;}
+#footunderwrap input.idi_send:hover{color:#b9b9b9;}
+/*	
+-------------------------------------------
+	Page / Single - Sidebar / fullwidth
+-------------------------------------------
+*/
+.clum2_box,.tagcloud a,.clum2_sidebar_unit,.clum2_sidebar_unit a,.clum2_sidebar_unit h3,.opps,.clum2_box_meta,.clum2_box_meta a,.comment{color:#666;}
+h1.pagetitle,.tweet_time a,.opps a,.job_title,#comments_box .author a{ color:#333;}
+.clum2_sidebar_unit li.widget-container,.singal_main{ background-color:#efefef;}
+.clum2_sidebar_unit ul.tweet_list li,.twitter-tweet{ background: url(../img/ico-tweet.png) no-repeat 0px 4px;}
+.widget_archive li a,.clum2_sidebar_unit li.menu-item a,.clum2_sidebar_unit li.cat-item a,li.widget_pages li a,li.widget_links li a,li.widget_meta li a,li.widget_rss li a{background-image:url(../img/widgetlist_666.png); background-repeat:no-repeat; background-position: 0 63%; padding-left:20px;}
+.widget_close{ background:url(../img/ico-widget-close.png) no-repeat 50% 50%;}
+.widget_open{ background:url(../img/ico-widget-open.png) no-repeat 50% 50%;}
+.job_title{background: url(../img/ico_career.gif) no-repeat left;}
+blockquote {background:url(../img/quote.png) 0 0 no-repeat; }
+#respond .respondbtn,#respond .send_btn{color:#fff;background-color:#717171;}
+
+/*Prettyphoto*/
+.pp_nav p,.pp_description{ color:#666;}
+
+

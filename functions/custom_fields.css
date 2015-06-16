@@ -1,0 +1,19 @@
+.wormbox { width:50px;}
+.suboption .tit{ font-size:14px; font-weight:bold; margin:5px 0; }
+.suboption{ background-color: #F5F5F5;border:1px solid #e4e4e4; padding:15px; -moz-border-radius:5px;-webkit-border-radius:5px; margin-bottom:10px; font-family:'Lucida Grande', Verdana, Arial, 'Bitstream Vera Sans', sans-serif; font-size:12px; }
+.suboption label.lab{ color:#666;margin-top:25px;}
+label.radioui {display:inline-block; width:45px}
+label.radioui2 ,label.radioui3{display:inline-block; text-align:left; margin-top:25px; }
+.radioui input{ width:auto; }
+.radioui2 input,.radioui3 input{ width:auto;}
+.clear{ clear:both;}
+.pattern{width:28px; height:28px; border:1px solid #CCC; position: absolute;}
+.pattern input{position:absolute; left:25%; top:60%}
+.paginote{ padding-left:20px; font-style:italic;color:#666;}
+.paginote a{ color:#666;}
+.labradio{  width:40px; }
+.breadyes{ color:#666;}
+.form-field input.img_upload_btn { display:block; width:150px; margin:20px 0; padding:5px; background: linear-gradient(to bottom, #FEFEFE, #F4F4F4) repeat scroll 0 0 #F3F3F3; 
+  background-image:-webkit-linear-gradient(top, #FEFEFE, #F4F4F4);border-color: #BBBBBB; color: #333333;text-shadow: 0 1px 0 #FFFFFF ; border-radius:3px; cursor:pointer; }
+.media-item .filename{ display: none; }
+.menu_order{ float: none; }
